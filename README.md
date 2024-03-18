@@ -1,1 +1,1 @@
-all leet code solutions
+all leet code solutions easy, medium and hard
